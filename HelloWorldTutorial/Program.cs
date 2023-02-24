@@ -21,3 +21,5 @@ else
 
 }
 Console.WriteLine("Hello, World!");
+
+Console.WriteLine("Git çok güzelmiş");

@@ -8,5 +8,6 @@ namespace HelloWorldTutorial
 {
     internal class Class1
     {
+
     }
 }
